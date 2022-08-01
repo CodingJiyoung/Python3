@@ -29,14 +29,6 @@ Sample Input 1
 Sample Output 1
 -   Not Weird
 Explanation 1
-<<<<<<< HEAD
 -   n = 24
 -   n > 20 and n is even, so it is not weird.
 '''
-=======
-
-
- and  is even, so it is not weird.
-'''
-w
->>>>>>> 4d387fc9faac6eae22adb1f766b7cafd3c355cbd
